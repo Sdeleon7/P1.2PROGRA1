@@ -1,0 +1,1 @@
+escriba un programa que sea capaz de crear un archivo con el texto con su [nombre sin espacios] Ejemplo: jennerperez.txt, el cual contenga el texto de este numeral
